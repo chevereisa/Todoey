@@ -1,0 +1,22 @@
+//
+//  Item.swift
+//  Todoey
+//
+//  Created by Isabel on 5/2/19.
+//  Copyright © 2019 Isabel. All rights reserved.
+//
+
+import Foundation
+
+
+class Item {
+    
+    var titles : String = ""
+    
+    var done : Bool = false
+
+}
+
+
+
+
