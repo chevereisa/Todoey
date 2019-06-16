@@ -44,7 +44,7 @@
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="pib-KN-IKe">
                             <color key="tintColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <connections>
-                                <action selector="addButtonPressed:" destination="IpF-7v-gD4" id="nnz-2x-d3N"/>
+                                <action selector="addButtonPressed:" destination="IpF-7v-gD4" id="98d-9U-eyz"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
